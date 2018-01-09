@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Notes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Notes.py">
+      <file leaf-file-name="GuessGame Sample.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuessGame Sample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7314">
-              <caret line="138" column="16" lean-forward="false" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
+            <state relative-caret-position="231">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -24,18 +24,8 @@
       <file leaf-file-name="Warmups.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Warmups.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="64" column="8" lean-forward="false" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mr. Wiebe - Guessgame.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mr. Wiebe - Guessgame.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            <state relative-caret-position="-2018">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -64,6 +54,9 @@
         <option value="$PROJECT_DIR$/Notes.py" />
         <option value="$PROJECT_DIR$/Mr. Wiebe - Guessgame.py" />
         <option value="$PROJECT_DIR$/Warmups.py" />
+        <option value="$USER_HOME$/Desktop/temp/Toua Yang - Guessgame.py" />
+        <option value="$USER_HOME$/Google Drive/Classroom/CSE/Guessgame/Guessgame Sample.py" />
+        <option value="$PROJECT_DIR$/GuessGame Sample.py" />
       </list>
     </option>
   </component>
@@ -100,14 +93,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSE3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSE7" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Notes">
+  <component name="RunManager" selected="Python.GuessGame Sample">
     <configuration name="Basic Python Notes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,6 +131,43 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Christopher Velazquez" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Google Drive/Classroom/CSE/Guessgame" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CSE2" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Google Drive/Classroom/CSE/Guessgame/Christopher Velazquez.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="GuessGame Sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CSE2" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GuessGame Sample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="Notes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,20 +185,28 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.Basic Python Notes" />
       <item index="1" class="java.lang.String" itemvalue="Python.Notes" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Christopher Velazquez" />
+      <item index="3" class="java.lang.String" itemvalue="Python.GuessGame Sample" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.Notes" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Basic Python Notes" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.GuessGame Sample" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Christopher Velazquez" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Notes" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Basic Python Notes" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -181,19 +219,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="504" width="1382" height="744" extended-state="6" />
+    <frame x="1912" y="261" width="1552" height="840" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20131771" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2513021" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21477428" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12776025" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -201,6 +238,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -231,57 +269,81 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Notes.py">
+    <entry file="file://$USER_HOME$/Desktop/temp/Elijah Bahm - Guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/EdgarR - Guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/EdgarR - Guessgame (1).py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Doua Vue-Guessing game.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Denim - Guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Casey - guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Brenna - Guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Jazmeene Guess Game.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Jazmin Ambriz Guess Game.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Jorge Guerrero- Guess Game.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Jose Torres - Guess Game.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/jose villasenor- guess game.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Julian Ramirez Guess Game.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/juniousB.guessGamefinished.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Guessgame_DJ_Stewart.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Guessgame_Blake_Valdez.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/guessgame. Marcos Cruz14.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/guessgame. Marcos Cruz14 (2).py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/guessgame. Marcos Cruz14 (1).py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Guess Game Anou Her.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Guess Game - Auckland Van Saun.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Madelynn Pattillo - Guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Logan Yang - Guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Leslie Coleman - Guess Game.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/SamuelGuessGame(finished).py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Marcus Guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Maria Garcia - GuessGame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Matthew Ames Guess game (1).py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/SamuelGuessGame(finished) (1).py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/SamuelGuessGame(2.0).py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Salvador V - Guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Ryan_Lee - Guessing_Game.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Rosie Rivera - Guess Game.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Rene-Angel Jaime - Guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Paul Addison - guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Paul Addison - guessgame (1).py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/nathan guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Matthew Ames Guess game.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Sariyah CopelandGuessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Valeria-Guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Trinity Windsor-GuessGame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Trenten Williams - Guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Toua Yang - Guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Thong Diep -Guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Thong Diep -Guessgame (1).py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Steelex Garcia - Guessgame.py" />
+    <entry file="file://$USER_HOME$/Desktop/temp/Sergio Romero - Guess Game.py" />
+    <entry file="file://$USER_HOME$/Google Drive/Classroom/CSE/Guessgame/Jazmin Ambriz Guess Game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7314">
-          <caret line="138" column="16" lean-forward="true" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mr. Wiebe - Guessgame.py">
+    <entry file="file://$USER_HOME$/Google Drive/Classroom/CSE/Guessgame/Guessgame Sample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessGame Sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Warmups.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2014">
-          <caret line="38" column="15" lean-forward="false" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic Python Notes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Notes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7314">
-          <caret line="138" column="16" lean-forward="false" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mr. Wiebe - Guessgame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Warmups.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="64" column="8" lean-forward="false" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+        <state relative-caret-position="-2018">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
