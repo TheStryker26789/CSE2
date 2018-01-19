@@ -34,8 +34,18 @@
       <file leaf-file-name="Notes.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Notes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="166" column="0" lean-forward="true" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+            <state relative-caret-position="586">
+              <caret line="190" column="16" lean-forward="true" selection-start-line="190" selection-start-column="16" selection-end-line="190" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mr. Wiebe - Hangman.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mr. Wiebe - Hangman.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -67,6 +77,7 @@
         <option value="$USER_HOME$/Google Drive/Classroom/CSE/Guessgame/Guessgame Sample.py" />
         <option value="$PROJECT_DIR$/GuessGame Sample.py" />
         <option value="$PROJECT_DIR$/Notes.py" />
+        <option value="$PROJECT_DIR$/Mr. Wiebe - Hangman.py" />
       </list>
     </option>
   </component>
@@ -280,7 +291,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/temp/EdgarR - Guessgame.py" />
     <entry file="file://$USER_HOME$/Desktop/temp/EdgarR - Guessgame (1).py" />
     <entry file="file://$USER_HOME$/Desktop/temp/Doua Vue-Guessing game.py" />
     <entry file="file://$USER_HOME$/Desktop/temp/Denim - Guessgame.py" />
@@ -356,10 +366,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Mr. Wiebe - Hangman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Notes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="166" column="0" lean-forward="true" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+        <state relative-caret-position="586">
+          <caret line="190" column="16" lean-forward="true" selection-start-line="190" selection-start-column="16" selection-end-line="190" selection-end-column="16" />
           <folding />
         </state>
       </provider>

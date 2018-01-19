@@ -163,9 +163,32 @@ for num in range(len(cheeseburger_ingredients)):
     item = cheeseburger_ingredients[num]
     print("The item at index %d is %s" % (num, item))
 
-# Adding items to a list
+# Recasting into a list
+strOne = "Hello World!"
+listOne = list(strOne)
+print(listOne)
+listOne[11] = '.'
+print(listOne)
 
+# Adding things to a list
+cheeseburger_ingredients.append("Fries")
 
+# Remove things from a list
+cheeseburger_ingredients.pop(1)
+print(cheeseburger_ingredients)
+cheeseburger_ingredients.remove("cheese")
+print(cheeseburger_ingredients)
+
+# Getting the alphabet
+import string
+print(string.ascii_letters)
+print(string.ascii_lowercase)
+print(string.punctuation)
+
+# Making things Lowercase
+strTwo = "ThIs Is A VeRY oDd sEnTeNCe"
+lowercase = strTwo.lower()
+print(lowercase)
 
 
 
