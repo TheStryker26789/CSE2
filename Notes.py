@@ -1,3 +1,4 @@
+'''
 print("Hello world")
 # This is a new line of code
 
@@ -91,11 +92,11 @@ def grade_calc(percentage):
 
 print(grade_calc(59))
 
-'''Write a function called "happy_bday"
+"""Write a function called "happy_bday"
 that "sings" (prints) Happy birthday
 
 It must take one parameter called "name"
-'''
+"""
 
 
 def happy_bday(name):
@@ -137,3 +138,34 @@ print(c == str(1))
 print(1 == 1)  # Use a double equal sign
 print(1 != 2)  # 1 is not equal to 2
 print(not False)
+
+'''
+
+# Lists
+
+the_count = [1, 2, 3, 4, 5]
+cheeseburger_ingredients = ['cheese', "beef", "sauce", "sesame seed bun", "avocado", "onion"]
+print(cheeseburger_ingredients[0])
+print(len(cheeseburger_ingredients))
+
+# Going through lists
+for generic_item_name in cheeseburger_ingredients:
+    print(generic_item_name)
+
+for num in the_count:
+    print(num * 2)
+
+length = len(cheeseburger_ingredients)
+range(5)  # A list of the numbers 0 through 4
+range(len(cheeseburger_ingredients))  # Generates a list of all indices
+
+for num in range(len(cheeseburger_ingredients)):
+    item = cheeseburger_ingredients[num]
+    print("The item at index %d is %s" % (num, item))
+
+# Adding items to a list
+
+
+
+
+
